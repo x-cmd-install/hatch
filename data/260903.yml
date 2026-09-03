@@ -1,11 +1,13 @@
 about:
-  description: Modern, extensible Python project management
+  description:
+  |
+    Modern, extensible Python project management
   license: MIT
   homepage: https://hatch.pypa.io/latest/
   head: 84023e0
   archived: false
   latestVersion: hatch-v1.18.0
-  collectedAt: 2026-09-03T05:15:34Z
+  collectedAt: 2026-09-03T22:36:29Z
 timeline:
   created: 2017-05-31
   lastCommit: 2026-09-01
@@ -23,7 +25,7 @@ language:
   Starlark: 2304
   Shell: 858
   Dockerfile: 194
-totalLine: 2152720
+totalBytes: 2152720
 recent:
   last30d:
     since: 2026-08-04
