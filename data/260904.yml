@@ -7,7 +7,7 @@ about:
   head: 84023e0
   archived: false
   latestVersion: hatch-v1.18.0
-  collectedAt: 2026-09-04T20:13:44Z
+  collectedAt: 2026-09-04T20:28:47Z
 timeline:
   created: 2017-05-31
   lastCommit: 2026-09-01
@@ -84,7 +84,7 @@ total:
   commit: 1110
 ---
 path: /home/runner/.x-repo/github.com/pypa/hatch
-collectedAt: 2026-09-04T20:13:46Z
+collectedAt: 2026-09-04T20:28:50Z
 loc:
   Python:
     code: 59089
