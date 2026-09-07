@@ -5,7 +5,7 @@ about:
   head: c9d4e8a
   archived: false
   latestVersion: "hatch-v1.18.0"
-  collectedAt: 2026-09-07T05:14:29Z
+  collectedAt: 2026-09-07T19:15:19Z
 timeline:
   created: 2017-05-31
   lastCommit: 2026-09-06
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 7236
   watcher: 50
-  fork: 456
+  fork: 457
   release: 150
   contributor: 177
-  pullRequest: 1011
+  pullRequest: 1012
   issue: 1074
 language:
   Python: 2149364
@@ -29,7 +29,7 @@ recent:
     since: 2026-08-08
     release: 2
     mergedPR: 7
-    openPR: 27
+    openPR: 28
     closedIssue: 2
     openIssue: 7
     commit: 2
@@ -37,7 +37,7 @@ recent:
     since: 2026-07-09
     release: 2
     mergedPR: 15
-    openPR: 35
+    openPR: 36
     closedIssue: 5
     openIssue: 8
     commit: 21
@@ -45,7 +45,7 @@ recent:
     since: 2026-06-09
     release: 4
     mergedPR: 24
-    openPR: 42
+    openPR: 43
     closedIssue: 8
     openIssue: 13
     commit: 29
@@ -53,7 +53,7 @@ recent:
     since: 2026-03-11
     release: 6
     mergedPR: 55
-    openPR: 60
+    openPR: 61
     closedIssue: 26
     openIssue: 21
     commit: 62
@@ -61,7 +61,7 @@ recent:
     since: 2025-09-12
     release: 17
     mergedPR: 104
-    openPR: 66
+    openPR: 67
     closedIssue: 80
     openIssue: 50
     commit: 115
@@ -69,20 +69,20 @@ recent:
     since: 2024-09-17
     release: 25
     mergedPR: 133
-    openPR: 86
+    openPR: 87
     closedIssue: 151
     openIssue: 175
     commit: 149
 total:
   release: 150
   mergedPR: 777
-  openPR: 97
+  openPR: 98
   closedIssue: 729
   openIssue: 345
   commit: 1111
 ---
 path: /home/runner/.x-repo/github.com/pypa/hatch
-collectedAt: 2026-09-07T05:14:37Z
+collectedAt: 2026-09-07T19:15:27Z
 loc:
   Python:
     code: 59124
@@ -292,7 +292,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:14:38+00:00
+  collectedAt: 2026-09-07T19:15:28+00:00
   platform:
     darwin/arm64:
       name:  null
