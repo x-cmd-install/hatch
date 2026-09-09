@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1579799,
       "digest": "sha256:f74cf175607a7efd7aab9622575c023298dd726e4eb69bfa1aae85c162879ce8",
-      "download_count": 9851,
+      "download_count": 10032,
       "created_at": "2026-08-11T05:16:57Z",
       "updated_at": "2026-08-11T05:16:58Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1703964,
       "digest": "sha256:3e70a4161c71694a1721bd70caf74c0e6d1289564d8ed4b9c3899a049dd374e5",
-      "download_count": 301,
+      "download_count": 302,
       "created_at": "2026-08-11T05:16:55Z",
       "updated_at": "2026-08-11T05:16:57Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-aarch64-unknown-linux-gnu.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 43466393,
       "digest": "sha256:4e6d23e7cadb0142c6429dffd6b978cfe6e9bb1db45d757705884e882c335cfe",
-      "download_count": 9877,
+      "download_count": 10056,
       "created_at": "2026-08-11T05:16:57Z",
       "updated_at": "2026-08-11T05:17:40Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-dist-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 53720214,
       "digest": "sha256:79035a27d7eab6921e8a978705105195aeba660354e90d32a64e3457b5b5b670",
-      "download_count": 284,
+      "download_count": 288,
       "created_at": "2026-08-11T05:16:59Z",
       "updated_at": "2026-08-11T05:17:52Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-dist-aarch64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 53191966,
       "digest": "sha256:811138d5fb037fbf20ae69ef5d58d749dab66f2f12e09fe672f682dc3c1b6c88",
-      "download_count": 11671,
+      "download_count": 11955,
       "created_at": "2026-08-11T05:16:58Z",
       "updated_at": "2026-08-11T05:17:49Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-dist-x86_64-pc-windows-msvc.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 58144501,
       "digest": "sha256:b1659a90c8ff802d497877a402660200d7b6c69a4bbd22ac6e2585c1822aeaf4",
-      "download_count": 39448,
+      "download_count": 40432,
       "created_at": "2026-08-11T05:16:57Z",
       "updated_at": "2026-08-11T05:17:52Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-dist-x86_64-unknown-linux-gnu.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 42355848,
       "digest": "sha256:0632104b8aca92778b12bb6eb778f7e3aa28e6332cb38d466049aae29ec5f9e1",
-      "download_count": 76,
+      "download_count": 77,
       "created_at": "2026-08-11T05:17:45Z",
       "updated_at": "2026-08-11T05:17:58Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-universal.exe"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3552795,
       "digest": "sha256:35bbb3f7ec4ff2e64ac917c2af092fd49da75521c24b6784a33e669ee232d70e",
-      "download_count": 98,
+      "download_count": 103,
       "created_at": "2026-08-11T05:17:41Z",
       "updated_at": "2026-08-11T05:17:44Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-universal.pkg"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1957888,
       "digest": "sha256:bee2bdbdf7bd8fa7bf6575e949b2bf6c6bb7a93f9003c5138beb9e69b990f95a",
-      "download_count": 1129,
+      "download_count": 1154,
       "created_at": "2026-08-11T05:17:45Z",
       "updated_at": "2026-08-11T05:17:48Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x64.msi"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1780492,
       "digest": "sha256:948ae8babed16086ba1696f149b5f6ec101e55f59ead3ac2a1795737a4b6b81c",
-      "download_count": 112,
+      "download_count": 113,
       "created_at": "2026-08-11T05:16:57Z",
       "updated_at": "2026-08-11T05:16:59Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x86_64-apple-darwin.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1646610,
       "digest": "sha256:828a6df9b5791a7699205b888bb8c1efec3f530545c8a7d0c76679bbf4bcdca4",
-      "download_count": 11527,
+      "download_count": 11802,
       "created_at": "2026-08-11T05:16:55Z",
       "updated_at": "2026-08-11T05:16:57Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x86_64-pc-windows-msvc.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 1888005,
       "digest": "sha256:8bbfa2464773e159c2b90126267455848871522f24478c7570328cc96b7caa03",
-      "download_count": 39491,
+      "download_count": 40480,
       "created_at": "2026-08-11T05:16:57Z",
       "updated_at": "2026-08-11T05:16:57Z",
       "browser_download_url": "https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x86_64-unknown-linux-gnu.tar.gz"
