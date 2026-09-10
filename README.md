@@ -21,33 +21,54 @@ x install hatch
 ## Release
 
 - **Latest**: `hatch-v1.18.0` (2026-08-11)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-10
 - **Assets in release**: 17
-- **Published**: 2026-08-11T05:19:57Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [hatch-aarch64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-aarch64-apple-darwin.tar.gz) | 1.5 MiB | `native/darwin/arm64` |
+| [hatch-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-aarch64-unknown-linux-gnu.tar.gz) | 1.6 MiB | `native/linux/arm64/glibc` |
+| [hatch-dist-aarch64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-dist-aarch64-apple-darwin.tar.gz) | 41.5 MiB | `native/darwin/arm64` |
+| [hatch-dist-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-dist-aarch64-unknown-linux-gnu.tar.gz) | 51.2 MiB | `native/linux/arm64/glibc` |
+| [hatch-dist-x86_64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-dist-x86_64-apple-darwin.tar.gz) | 43.6 MiB | `native/darwin/x64` |
+| [hatch-dist-x86_64-pc-windows-msvc.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-dist-x86_64-pc-windows-msvc.tar.gz) | 50.7 MiB | `native/win/x64` |
+| [hatch-dist-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-dist-x86_64-unknown-linux-gnu.tar.gz) | 55.5 MiB | `native/linux/x64/glibc` |
+| [hatch-i686-pc-windows-msvc.zip](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-i686-pc-windows-msvc.zip) | 1.4 MiB | `native/win/x64` |
+| [hatch-powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-powerpc64le-unknown-linux-gnu.tar.gz) | 1.9 MiB | `native/unknown` |
+| [hatch-universal.exe](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-universal.exe) | 40.4 MiB | `other` |
+| [hatch-universal.pkg](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-universal.pkg) | 3.4 MiB | `other` |
+| [hatch-x64.msi](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x64.msi) | 1.9 MiB | `other` |
+| [hatch-x86.msi](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x86.msi) | 1.6 MiB | `other` |
+| [hatch-x86_64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x86_64-apple-darwin.tar.gz) | 1.7 MiB | `native/darwin/x64` |
+| [hatch-x86_64-pc-windows-msvc.zip](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x86_64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/x64` |
+| [hatch-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x86_64-unknown-linux-gnu.tar.gz) | 1.8 MiB | `native/linux/x64/glibc` |
+| [hatch-x86_64-unknown-linux-musl.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x86_64-unknown-linux-musl.tar.gz) | 1.9 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
-- **Stars**: 7,235 · **Forks**: 457 · **Open issues**: 1,074 · **Contributors**: 177
+- **Stars**: 7,236 · **Forks**: 457 · **Open issues**: 1,074 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 150 · **Merged PRs**: 778 · **Open PRs**: 97 · **Closed issues**: 729 · **Open issues**: 345 · **Commits**: 1112
+- **Releases**: 150 · **Merged PRs**: 779 · **Open PRs**: 96 · **Closed issues**: 730 · **Open issues**: 344 · **Commits**: 1113
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 3 | 22 | 2 | 5 | 3 |
-| 90d | 2026-06-12 | 4 | 25 | 42 | 7 | 13 | 30 |
-| 360d | 2025-09-15 | 17 | 105 | 66 | 79 | 49 | 116 |
+| 30d | 2026-08-11 | 2 | 4 | 21 | 3 | 4 | 4 |
+| 90d | 2026-06-12 | 4 | 26 | 41 | 8 | 12 | 31 |
+| 360d | 2025-09-15 | 17 | 106 | 65 | 80 | 48 | 117 |
 
 ## Code size
 
-Total: **60,675** lines of code across **412** files in the top 5 languages.
+Total: **60,727** lines of code across **412** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 59,129 | 694 | 14,732 | 401 |
+| Python | 59,181 | 697 | 14,745 | 401 |
 | Toml | 1,027 | 10 | 49 | 7 |
 | Yaml | 323 | 13 | 8 | 2 |
 | Svg | 76 | 0 | 0 | 1 |
@@ -68,8 +89,8 @@ Lowest-scoring checks:
 Install metadata for hatch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hatch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/hatch.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/hatch.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:18:05Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:09:09Z._
