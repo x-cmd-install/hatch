@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,236 · **Forks**: 457 · **Open issues**: 1,074 · **Contributors**: 177
+- **Stars**: 7,236 · **Forks**: 458 · **Open issues**: 1,075 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 150 · **Merged PRs**: 780 · **Open PRs**: 95 · **Closed issues**: 731 · **Open issues**: 343 · **Commits**: 1114
+- **Releases**: 150 · **Merged PRs**: 780 · **Open PRs**: 96 · **Closed issues**: 732 · **Open issues**: 343 · **Commits**: 1114
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 4 | 18 | 3 | 3 | 5 |
-| last60d | 2026-07-13 | 2 | 18 | 31 | 7 | 6 | 24 |
-| 90d | 2026-06-13 | 4 | 27 | 40 | 9 | 11 | 32 |
-| last180d | 2026-03-15 | 6 | 58 | 57 | 28 | 18 | 65 |
-| 360d | 2025-09-16 | 17 | 107 | 64 | 81 | 46 | 118 |
-| last720d | 2024-09-21 | 25 | 136 | 84 | 152 | 172 | 152 |
+| 30d | 2026-08-12 | 0 | 4 | 19 | 4 | 3 | 5 |
+| last60d | 2026-07-13 | 2 | 18 | 32 | 8 | 6 | 24 |
+| 90d | 2026-06-13 | 4 | 27 | 41 | 10 | 11 | 32 |
+| last180d | 2026-03-15 | 6 | 58 | 58 | 29 | 18 | 65 |
+| 360d | 2025-09-16 | 17 | 107 | 65 | 82 | 46 | 118 |
+| last720d | 2024-09-21 | 25 | 136 | 85 | 153 | 172 | 152 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **57** distros on [repology.org](https://repology.org/project/hatch). **12** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
+Reported by **58** distros on [repology.org](https://repology.org/project/hatch). **13** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -110,4 +110,4 @@ Install metadata for hatch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:15:55Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:47:09Z._
