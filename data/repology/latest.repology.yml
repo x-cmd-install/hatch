@@ -1,3 +1,14 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: python-hatch
+  binname: python-hatch
+  visiblename: python-hatch
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: outdated
+  summary: A modern project, package, and virtual env manager
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: hatch
@@ -32,6 +43,17 @@
   version: 1.17.0
   origversion: 1.17.0-1
   status: outdated
+  summary: A modern project, package, and virtual env manager
+  licenses:
+    - MIT
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: python-hatch
+  binname: python-hatch
+  visiblename: python-hatch
+  version: 1.18.0
+  origversion: 1.18.0-1
+  status: newest
   summary: A modern project, package, and virtual env manager
   licenses:
     - MIT
@@ -105,20 +127,6 @@
   categories:
     - Unspecified
 - repo: fedora_39
-  subrepo: updates
-  srcname: hatch
-  binnames:
-    - hatch
-  visiblename: hatch
-  version: 1.9.7
-  origversion: 1.9.7-1.fc39
-  status: outdated
-  summary: A modern project, package, and virtual env manager
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_39
   subrepo: release
   srcname: hatch
   binnames:
@@ -132,14 +140,14 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_40
+- repo: fedora_39
   subrepo: updates
   srcname: hatch
   binnames:
     - hatch
   visiblename: hatch
   version: 1.9.7
-  origversion: 1.9.7-1.fc40
+  origversion: 1.9.7-1.fc39
   status: outdated
   summary: A modern project, package, and virtual env manager
   licenses:
@@ -160,14 +168,14 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_40
   subrepo: updates
   srcname: hatch
   binnames:
     - hatch
   visiblename: hatch
-  version: 1.15.1
-  origversion: 1.15.1-1.fc41
+  version: 1.9.7
+  origversion: 1.9.7-1.fc40
   status: outdated
   summary: A modern project, package, and virtual env manager
   licenses:
@@ -188,14 +196,14 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_42
+- repo: fedora_41
   subrepo: updates
   srcname: hatch
   binnames:
     - hatch
   visiblename: hatch
   version: 1.15.1
-  origversion: 1.15.1-1.fc42
+  origversion: 1.15.1-1.fc41
   status: outdated
   summary: A modern project, package, and virtual env manager
   licenses:
@@ -216,14 +224,14 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_43
+- repo: fedora_42
   subrepo: updates
   srcname: hatch
   binnames:
     - hatch
   visiblename: hatch
   version: 1.15.1
-  origversion: 1.15.1-1.fc43
+  origversion: 1.15.1-1.fc42
   status: outdated
   summary: A modern project, package, and virtual env manager
   licenses:
@@ -239,6 +247,20 @@
   version: 1.14.2
   origversion: 1.14.2-2.fc43
   status: legacy
+  summary: A modern project, package, and virtual env manager
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: hatch
+  binnames:
+    - hatch
+  visiblename: hatch
+  version: 1.15.1
+  origversion: 1.15.1-1.fc43
+  status: outdated
   summary: A modern project, package, and virtual env manager
   licenses:
     - MIT
@@ -424,17 +446,6 @@
   summary: A modern project, package, and virtual env manager
   licenses:
     - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: python-hatch
-  binname: python-hatch
-  visiblename: python-hatch
-  version: 1.17.0
-  origversion: 1.17.0-1
-  status: outdated
-  summary: A modern project, package, and virtual env manager
-  licenses:
-    - MIT
 - repo: nix_stable_24_05
   srcname: hatch
   visiblename: hatch
@@ -480,7 +491,7 @@
   licenses:
     - MIT
 - repo: nix_stable_26_05
-  srcname: python313Packages.hatch
+  srcname: python314Packages.hatch
   visiblename: hatch
   version: 1.16.5
   origversion: null
@@ -491,7 +502,7 @@
   licenses:
     - MIT
   categories:
-    - python313Packages
+    - python314Packages
 - repo: nix_stable_26_05
   srcname: hatch
   visiblename: hatch
@@ -504,6 +515,30 @@
   licenses:
     - MIT
 - repo: nix_stable_26_05
+  srcname: python313Packages.hatch
+  visiblename: hatch
+  version: 1.16.5
+  origversion: null
+  status: outdated
+  summary: Modern, extensible Python project manager
+  maintainers:
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
+- repo: nix_unstable
+  srcname: hatch
+  visiblename: hatch
+  version: 1.16.5
+  origversion: null
+  status: outdated
+  summary: Modern, extensible Python project manager
+  maintainers:
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: nix_unstable
   srcname: python314Packages.hatch
   visiblename: hatch
   version: 1.16.5
@@ -529,30 +564,6 @@
     - MIT
   categories:
     - python313Packages
-- repo: nix_unstable
-  srcname: python314Packages.hatch
-  visiblename: hatch
-  version: 1.16.5
-  origversion: null
-  status: outdated
-  summary: Modern, extensible Python project manager
-  maintainers:
-    - onny@project-insanity.org
-  licenses:
-    - MIT
-  categories:
-    - python314Packages
-- repo: nix_unstable
-  srcname: hatch
-  visiblename: hatch
-  version: 1.16.5
-  origversion: null
-  status: outdated
-  summary: Modern, extensible Python project manager
-  maintainers:
-    - onny@project-insanity.org
-  licenses:
-    - MIT
 - repo: openeuler_24_03_lts
   srcname: python-hatch
   binnames:

@@ -7,7 +7,7 @@ about:
   latestVersion: "hatch-v1.18.0"
   latestRelease: "hatch-v1.18.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:15:42Z
+  collectedAt: 2026-09-11T19:46:50Z
 timeline:
   created: 2017-05-31
   lastCommit: 2026-09-11
@@ -17,11 +17,11 @@ timeline:
 popularity:
   star: 7236
   watcher: 50
-  fork: 457
+  fork: 458
   release: 150
   contributor: 177
-  pullRequest: 1013
-  issue: 1074
+  pullRequest: 1014
+  issue: 1075
 language:
   Python: 2150907
   Starlark: 2304
@@ -33,60 +33,60 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 4
-    openPR: 18
-    closedIssue: 3
+    openPR: 19
+    closedIssue: 4
     openIssue: 3
     commit: 5
   last60d:
     since: 2026-07-13
     release: 2
     mergedPR: 18
-    openPR: 31
-    closedIssue: 7
+    openPR: 32
+    closedIssue: 8
     openIssue: 6
     commit: 24
   last90d:
     since: 2026-06-13
     release: 4
     mergedPR: 27
-    openPR: 40
-    closedIssue: 9
+    openPR: 41
+    closedIssue: 10
     openIssue: 11
     commit: 32
   last180d:
     since: 2026-03-15
     release: 6
     mergedPR: 58
-    openPR: 57
-    closedIssue: 28
+    openPR: 58
+    closedIssue: 29
     openIssue: 18
     commit: 65
   last360d:
     since: 2025-09-16
     release: 17
     mergedPR: 107
-    openPR: 64
-    closedIssue: 81
+    openPR: 65
+    closedIssue: 82
     openIssue: 46
     commit: 118
   last720d:
     since: 2024-09-21
     release: 25
     mergedPR: 136
-    openPR: 84
-    closedIssue: 152
+    openPR: 85
+    closedIssue: 153
     openIssue: 172
     commit: 152
 total:
   release: 150
   mergedPR: 780
-  openPR: 95
-  closedIssue: 731
+  openPR: 96
+  closedIssue: 732
   openIssue: 343
   commit: 1114
 ---
 path: /home/runner/.x-repo/github.com/pypa/hatch
-collectedAt: 2026-09-11T05:15:50Z
+collectedAt: 2026-09-11T19:46:58Z
 loc:
   Python:
     code: 59208
