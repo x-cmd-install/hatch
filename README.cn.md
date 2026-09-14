@@ -48,22 +48,22 @@ x install hatch
 
 ## 流行度
 
-- **Star**: 7,235 · **Fork**: 458 · **开放 issue**: 1,077 · **贡献者**: 177
+- **Star**: 7,235 · **Fork**: 459 · **开放 issue**: 1,077 · **贡献者**: 177
 
 ## 累计统计
 
-- **发布数**: 150 · **已合并 PR**: 780 · **开放 PR**: 96 · **已关闭 issue**: 732 · **开放 issue**: 345 · **提交数**: 1114
+- **发布数**: 150 · **已合并 PR**: 780 · **开放 PR**: 97 · **已关闭 issue**: 732 · **开放 issue**: 345 · **提交数**: 1114
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 4 | 15 | 3 | 4 | 5 |
-| last60d | 2026-07-15 | 2 | 18 | 32 | 7 | 8 | 22 |
-| 90d | 2026-06-15 | 4 | 26 | 40 | 9 | 13 | 31 |
-| last180d | 2026-03-17 | 6 | 58 | 58 | 29 | 20 | 65 |
-| 360d | 2025-09-18 | 17 | 107 | 65 | 81 | 48 | 116 |
-| last720d | 2024-09-23 | 25 | 136 | 85 | 152 | 173 | 152 |
+| 30d | 2026-08-15 | 0 | 4 | 16 | 3 | 4 | 5 |
+| last60d | 2026-07-16 | 2 | 18 | 31 | 7 | 8 | 22 |
+| 90d | 2026-06-16 | 4 | 26 | 41 | 8 | 13 | 31 |
+| last180d | 2026-03-18 | 6 | 58 | 58 | 29 | 20 | 65 |
+| 360d | 2025-09-19 | 17 | 107 | 66 | 80 | 48 | 116 |
+| last720d | 2024-09-24 | 25 | 136 | 86 | 152 | 172 | 152 |
 
 ## Release 资产
 
@@ -87,20 +87,6 @@ x install hatch
 | [hatch-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x86_64-unknown-linux-gnu.tar.gz) | 1.8 MiB | `native/linux/x64/glibc` |
 | [hatch-x86_64-unknown-linux-musl.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.0/hatch-x86_64-unknown-linux-musl.tar.gz) | 1.9 MiB | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/hatch) 上共有 **59** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**38** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.17.0` | ⚠️ outdated |
-| Homebrew | `1.18.0` | ✅ latest |
-| Fedora rawhide | `1.18.0` | ✅ latest |
-| Nix unstable | `1.16.5` | ⚠️ outdated |
-| Void | `1.17.0` | ⚠️ outdated |
-| Alpine edge | `1.16.3` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.18.0` | ✅ latest |
-
 ## 改进这些数据
 
 hatch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `hatch` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -110,4 +96,4 @@ hatch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:24:48Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:30:59Z._
