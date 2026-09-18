@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `hatchling-v1.32.2` (2026-09-16)
-- **Last commit**: 2026-09-16
+- **Latest**: `hatchling-v1.32.3` (2026-09-17)
+- **Last commit**: 2026-09-17
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 7,235 · **Forks**: 459 · **Open issues**: 1,079 · **Contributors**: 177
+- **Stars**: 7,235 · **Forks**: 459 · **Open issues**: 1,081 · **Contributors**: 177
 
 ## Totals (cumulative)
 
-- **Releases**: 152 · **Merged PRs**: 786 · **Open PRs**: 95 · **Closed issues**: 734 · **Open issues**: 345 · **Commits**: 1120
+- **Releases**: 152 · **Merged PRs**: 787 · **Open PRs**: 95 · **Closed issues**: 735 · **Open issues**: 346 · **Commits**: 1121
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 2 | 8 | 12 | 5 | 3 | 11 |
-| last60d | 2026-07-19 | 4 | 23 | 29 | 8 | 8 | 28 |
-| 90d | 2026-06-19 | 6 | 32 | 39 | 10 | 10 | 37 |
-| last180d | 2026-03-21 | 8 | 64 | 56 | 30 | 19 | 71 |
-| 360d | 2025-09-22 | 19 | 112 | 64 | 82 | 47 | 122 |
-| last720d | 2024-09-27 | 27 | 142 | 83 | 154 | 171 | 158 |
+| 30d | 2026-08-19 | 2 | 8 | 10 | 6 | 4 | 12 |
+| last60d | 2026-07-20 | 4 | 24 | 28 | 9 | 9 | 29 |
+| 90d | 2026-06-20 | 6 | 33 | 38 | 11 | 11 | 38 |
+| last180d | 2026-03-22 | 8 | 65 | 55 | 30 | 20 | 72 |
+| 360d | 2025-09-23 | 19 | 113 | 64 | 82 | 48 | 123 |
+| last720d | 2024-09-28 | 27 | 143 | 83 | 155 | 172 | 159 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for hatch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:31:05Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:29:07Z._
