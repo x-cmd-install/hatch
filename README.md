@@ -14,11 +14,11 @@ x install hatch
 
 ## Code insight
 
-Total: **60,767** lines of code across **412** files in the top 5 languages.
+Total: **60,811** lines of code across **412** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 59,221 | 697 | 14,752 | 401 |
+| Python | 59,265 | 703 | 14,765 | 401 |
 | Toml | 1,027 | 10 | 49 | 7 |
 | Yaml | 323 | 13 | 8 | 2 |
 | Svg | 76 | 0 | 0 | 1 |
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `hatchling-v1.32.3` (2026-09-17)
-- **Last commit**: 2026-09-19
+- **Latest**: `hatchling-v1.32.4` (2026-09-20)
+- **Last commit**: 2026-09-20
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 7,237 · **Forks**: 462 · **Open issues**: 1,081 · **Contributors**: 178
+- **Stars**: 7,237 · **Forks**: 463 · **Open issues**: 1,081 · **Contributors**: 179
 
 ## Totals (cumulative)
 
-- **Releases**: 152 · **Merged PRs**: 789 · **Open PRs**: 96 · **Closed issues**: 735 · **Open issues**: 346 · **Commits**: 1123
+- **Releases**: 153 · **Merged PRs**: 791 · **Open PRs**: 95 · **Closed issues**: 737 · **Open issues**: 344 · **Commits**: 1125
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 2 | 10 | 10 | 5 | 4 | 14 |
-| last60d | 2026-07-22 | 4 | 25 | 29 | 9 | 9 | 31 |
-| 90d | 2026-06-22 | 6 | 35 | 38 | 11 | 11 | 40 |
-| last180d | 2026-03-24 | 8 | 66 | 56 | 30 | 20 | 74 |
-| 360d | 2025-09-25 | 18 | 115 | 65 | 79 | 46 | 125 |
-| last720d | 2024-09-30 | 27 | 145 | 84 | 154 | 172 | 161 |
+| 30d | 2026-08-22 | 3 | 11 | 10 | 6 | 3 | 16 |
+| last60d | 2026-07-23 | 5 | 26 | 28 | 11 | 7 | 30 |
+| 90d | 2026-06-23 | 7 | 37 | 37 | 13 | 9 | 38 |
+| last180d | 2026-03-25 | 9 | 68 | 55 | 32 | 18 | 74 |
+| 360d | 2025-09-26 | 19 | 115 | 64 | 81 | 44 | 121 |
+| last720d | 2024-10-01 | 28 | 147 | 83 | 155 | 170 | 163 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for hatch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:25:31Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:26:40Z._
