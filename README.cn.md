@@ -4,7 +4,7 @@
 
 Modern, extensible Python project management
 
-[![x-cmd/install — hatch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hatch.svg?lang=zh)](https://x-cmd.com/install/hatch)
+[![x-cmd/install — hatch Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hatch.svg?lang=zh)](https://x-cmd.com/install/hatch)
 
 ## 安装
 
@@ -26,13 +26,13 @@ x install hatch
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.2 / 10**
+总评分: **5.1 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (4/10) — Found 12/30 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install hatch
 
 ## 流行度
 
-- **Star**: 7,236 · **Fork**: 464 · **开放 issue**: 1,081 · **贡献者**: 179
+- **Star**: 7,236 · **Fork**: 464 · **开放 issue**: 1,082 · **贡献者**: 179
 
 ## 累计统计
 
-- **发布数**: 153 · **已合并 PR**: 791 · **开放 PR**: 96 · **已关闭 issue**: 737 · **开放 issue**: 344 · **提交数**: 1125
+- **发布数**: 153 · **已合并 PR**: 791 · **开放 PR**: 96 · **已关闭 issue**: 737 · **开放 issue**: 345 · **提交数**: 1125
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 11 | 11 | 6 | 3 | 16 |
-| last60d | 2026-07-24 | 5 | 25 | 29 | 10 | 7 | 30 |
-| 90d | 2026-06-24 | 7 | 37 | 38 | 13 | 9 | 38 |
-| last180d | 2026-03-26 | 9 | 66 | 56 | 30 | 18 | 74 |
-| 360d | 2025-09-27 | 19 | 113 | 65 | 81 | 44 | 121 |
-| last720d | 2024-10-02 | 28 | 147 | 84 | 155 | 169 | 163 |
+| 30d | 2026-08-24 | 3 | 11 | 10 | 6 | 4 | 16 |
+| last60d | 2026-07-25 | 5 | 25 | 28 | 10 | 8 | 30 |
+| 90d | 2026-06-25 | 7 | 36 | 38 | 13 | 10 | 38 |
+| last180d | 2026-03-27 | 9 | 65 | 55 | 30 | 18 | 74 |
+| 360d | 2025-09-28 | 19 | 112 | 65 | 80 | 45 | 121 |
+| last720d | 2024-10-03 | 28 | 147 | 83 | 154 | 170 | 163 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ hatch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:32:58Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:28:52Z._

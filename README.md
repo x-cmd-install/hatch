@@ -4,7 +4,7 @@
 
 Modern, extensible Python project management
 
-[![x-cmd/install — hatch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hatch.svg)](https://x-cmd.com/install/hatch)
+[![x-cmd/install — hatch Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hatch.svg)](https://x-cmd.com/install/hatch)
 
 ## Install
 
@@ -26,13 +26,13 @@ Total: **60,811** lines of code across **412** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (4/10) — Found 12/30 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,236 · **Forks**: 464 · **Open issues**: 1,081 · **Contributors**: 179
+- **Stars**: 7,236 · **Forks**: 464 · **Open issues**: 1,082 · **Contributors**: 179
 
 ## Totals (cumulative)
 
-- **Releases**: 153 · **Merged PRs**: 791 · **Open PRs**: 96 · **Closed issues**: 737 · **Open issues**: 344 · **Commits**: 1125
+- **Releases**: 153 · **Merged PRs**: 791 · **Open PRs**: 96 · **Closed issues**: 737 · **Open issues**: 345 · **Commits**: 1125
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 11 | 11 | 6 | 3 | 16 |
-| last60d | 2026-07-24 | 5 | 25 | 29 | 10 | 7 | 30 |
-| 90d | 2026-06-24 | 7 | 37 | 38 | 13 | 9 | 38 |
-| last180d | 2026-03-26 | 9 | 66 | 56 | 30 | 18 | 74 |
-| 360d | 2025-09-27 | 19 | 113 | 65 | 81 | 44 | 121 |
-| last720d | 2024-10-02 | 28 | 147 | 84 | 155 | 169 | 163 |
+| 30d | 2026-08-24 | 3 | 11 | 10 | 6 | 4 | 16 |
+| last60d | 2026-07-25 | 5 | 25 | 28 | 10 | 8 | 30 |
+| 90d | 2026-06-25 | 7 | 36 | 38 | 13 | 10 | 38 |
+| last180d | 2026-03-27 | 9 | 65 | 55 | 30 | 18 | 74 |
+| 360d | 2025-09-28 | 19 | 112 | 65 | 80 | 45 | 121 |
+| last720d | 2024-10-03 | 28 | 147 | 83 | 154 | 170 | 163 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for hatch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:32:57Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:28:52Z._
