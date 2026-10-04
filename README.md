@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,238 · **Forks**: 471 · **Open issues**: 1,087 · **Contributors**: 179
+- **Stars**: 7,239 · **Forks**: 471 · **Open issues**: 1,087 · **Contributors**: 179
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 3 | 10 | 11 | 6 | 6 | 15 |
-| last60d | 2026-08-04 | 5 | 22 | 34 | 11 | 11 | 26 |
-| 90d | 2026-07-05 | 7 | 30 | 42 | 14 | 13 | 37 |
-| last180d | 2026-04-06 | 9 | 62 | 60 | 30 | 20 | 72 |
-| 360d | 2025-10-08 | 19 | 110 | 70 | 78 | 45 | 121 |
-| last720d | 2024-10-13 | 28 | 146 | 89 | 153 | 171 | 163 |
+| 30d | 2026-09-04 | 3 | 10 | 11 | 6 | 6 | 11 |
+| last60d | 2026-08-05 | 5 | 21 | 34 | 11 | 11 | 17 |
+| 90d | 2026-07-06 | 7 | 30 | 42 | 14 | 11 | 35 |
+| last180d | 2026-04-07 | 9 | 61 | 60 | 30 | 19 | 72 |
+| 360d | 2025-10-09 | 19 | 110 | 70 | 77 | 45 | 121 |
+| last720d | 2024-10-14 | 27 | 146 | 89 | 153 | 171 | 161 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for hatch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:42:58Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:20:00Z._
