@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `hatchling-v1.32.4` (2026-09-20)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-23
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 7,245 · **Forks**: 485 · **Open issues**: 1,089 · **Contributors**: 183
+- **Stars**: 7,244 · **Forks**: 485 · **Open issues**: 1,089 · **Contributors**: 183
 
 ## Totals (cumulative)
 
-- **Releases**: 153 · **Merged PRs**: 796 · **Open PRs**: 107 · **Closed issues**: 748 · **Open issues**: 341 · **Commits**: 1130
+- **Releases**: 153 · **Merged PRs**: 797 · **Open PRs**: 106 · **Closed issues**: 748 · **Open issues**: 341 · **Commits**: 1131
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 4 | 17 | 0 | 5 | 5 |
-| last60d | 2026-08-23 | 3 | 15 | 26 | 8 | 8 | 21 |
-| 90d | 2026-07-24 | 5 | 29 | 42 | 14 | 10 | 35 |
-| last180d | 2026-04-25 | 9 | 64 | 61 | 31 | 15 | 74 |
-| 360d | 2025-10-27 | 17 | 113 | 76 | 78 | 41 | 125 |
-| last720d | 2024-11-01 | 27 | 147 | 91 | 152 | 164 | 164 |
+| 30d | 2026-09-23 | 0 | 5 | 17 | 0 | 5 | 6 |
+| last60d | 2026-08-24 | 3 | 16 | 25 | 8 | 8 | 22 |
+| 90d | 2026-07-25 | 5 | 30 | 41 | 14 | 10 | 36 |
+| last180d | 2026-04-26 | 9 | 65 | 60 | 31 | 15 | 75 |
+| 360d | 2025-10-28 | 17 | 114 | 75 | 78 | 41 | 126 |
+| last720d | 2024-11-02 | 27 | 148 | 90 | 152 | 164 | 165 |
 
 ## Release assets
 
@@ -87,6 +87,20 @@ Lowest-scoring checks:
 | [hatch-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-x86_64-unknown-linux-gnu.tar.gz) | 1.8 MiB | `native/linux/x64/glibc` |
 | [hatch-x86_64-unknown-linux-musl.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-x86_64-unknown-linux-musl.tar.gz) | 1.9 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **55** distros on [repology.org](https://repology.org/project/hatch). **16** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.18.1` | ✅ latest |
+| Homebrew | `1.18.1` | ✅ latest |
+| Fedora rawhide | `1.18.1` | ✅ latest |
+| Nix unstable | `1.16.5` | ⚠️ outdated |
+| Void | `1.17.0` | ⚠️ outdated |
+| Alpine edge | `1.16.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.18.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for hatch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hatch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +110,4 @@ Install metadata for hatch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:08:54Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:08:34Z._
