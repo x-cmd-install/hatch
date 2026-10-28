@@ -30,7 +30,7 @@ x install hatch
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 11/30 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 10/30 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,8 +42,8 @@ x install hatch
 
 ## 发布
 
-- **最新版本**: `hatchling-v1.32.4` (2026-09-20)
-- **最近提交**: 2026-10-23
+- **最新版本**: `hatch-v1.18.2` (2026-10-28)
+- **最近提交**: 2026-10-28
 - **Release 含资产**: 17 个
 
 ## 流行度
@@ -52,50 +52,50 @@ x install hatch
 
 ## 累计统计
 
-- **发布数**: 153 · **已合并 PR**: 797 · **开放 PR**: 107 · **已关闭 issue**: 748 · **开放 issue**: 341 · **提交数**: 1131
+- **发布数**: 155 · **已合并 PR**: 800 · **开放 PR**: 107 · **已关闭 issue**: 749 · **开放 issue**: 340 · **提交数**: 1134
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 4 | 16 | 0 | 5 | 6 |
-| last60d | 2026-08-28 | 3 | 16 | 26 | 8 | 8 | 21 |
-| 90d | 2026-07-29 | 5 | 29 | 42 | 14 | 10 | 35 |
-| last180d | 2026-04-30 | 9 | 65 | 61 | 29 | 15 | 73 |
-| 360d | 2025-11-01 | 17 | 114 | 76 | 78 | 39 | 126 |
-| last720d | 2024-11-06 | 27 | 147 | 90 | 152 | 163 | 165 |
+| 30d | 2026-09-28 | 2 | 7 | 15 | 1 | 3 | 9 |
+| last60d | 2026-08-29 | 5 | 19 | 26 | 9 | 6 | 24 |
+| 90d | 2026-07-30 | 7 | 31 | 42 | 15 | 9 | 38 |
+| last180d | 2026-05-01 | 11 | 67 | 61 | 30 | 14 | 76 |
+| 360d | 2025-11-02 | 19 | 117 | 76 | 79 | 38 | 129 |
+| last720d | 2024-11-07 | 29 | 150 | 90 | 152 | 162 | 168 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [hatch-aarch64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-aarch64-apple-darwin.tar.gz) | 1.5 MiB | `native/darwin/arm64` |
-| [hatch-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-aarch64-unknown-linux-gnu.tar.gz) | 1.6 MiB | `native/linux/arm64/glibc` |
-| [hatch-dist-aarch64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-dist-aarch64-apple-darwin.tar.gz) | 40.6 MiB | `native/darwin/arm64` |
-| [hatch-dist-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-dist-aarch64-unknown-linux-gnu.tar.gz) | 49.6 MiB | `native/linux/arm64/glibc` |
-| [hatch-dist-x86_64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-dist-x86_64-apple-darwin.tar.gz) | 44.5 MiB | `native/darwin/x64` |
-| [hatch-dist-x86_64-pc-windows-msvc.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-dist-x86_64-pc-windows-msvc.tar.gz) | 48.8 MiB | `native/win/x64` |
-| [hatch-dist-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-dist-x86_64-unknown-linux-gnu.tar.gz) | 53.3 MiB | `native/linux/x64/glibc` |
-| [hatch-i686-pc-windows-msvc.zip](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-i686-pc-windows-msvc.zip) | 1.4 MiB | `native/win/x64` |
-| [hatch-powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-powerpc64le-unknown-linux-gnu.tar.gz) | 1.9 MiB | `native/unknown` |
-| [hatch-universal.exe](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-universal.exe) | 40.4 MiB | `other` |
-| [hatch-universal.pkg](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-universal.pkg) | 3.4 MiB | `other` |
-| [hatch-x64.msi](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-x64.msi) | 1.9 MiB | `other` |
-| [hatch-x86.msi](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-x86.msi) | 1.7 MiB | `other` |
-| [hatch-x86_64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-x86_64-apple-darwin.tar.gz) | 1.7 MiB | `native/darwin/x64` |
-| [hatch-x86_64-pc-windows-msvc.zip](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-x86_64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/x64` |
-| [hatch-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-x86_64-unknown-linux-gnu.tar.gz) | 1.8 MiB | `native/linux/x64/glibc` |
-| [hatch-x86_64-unknown-linux-musl.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.1/hatch-x86_64-unknown-linux-musl.tar.gz) | 1.9 MiB | `native/linux/x64/musl` |
+| [hatch-aarch64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-aarch64-apple-darwin.tar.gz) | 1.5 MiB | `native/darwin/arm64` |
+| [hatch-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-aarch64-unknown-linux-gnu.tar.gz) | 1.6 MiB | `native/linux/arm64/glibc` |
+| [hatch-dist-aarch64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-dist-aarch64-apple-darwin.tar.gz) | 38.5 MiB | `native/darwin/arm64` |
+| [hatch-dist-aarch64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-dist-aarch64-unknown-linux-gnu.tar.gz) | 47.2 MiB | `native/linux/arm64/glibc` |
+| [hatch-dist-x86_64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-dist-x86_64-apple-darwin.tar.gz) | 41.6 MiB | `native/darwin/x64` |
+| [hatch-dist-x86_64-pc-windows-msvc.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-dist-x86_64-pc-windows-msvc.tar.gz) | 46.9 MiB | `native/win/x64` |
+| [hatch-dist-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-dist-x86_64-unknown-linux-gnu.tar.gz) | 51.1 MiB | `native/linux/x64/glibc` |
+| [hatch-i686-pc-windows-msvc.zip](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-i686-pc-windows-msvc.zip) | 1.4 MiB | `native/win/x64` |
+| [hatch-powerpc64le-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-powerpc64le-unknown-linux-gnu.tar.gz) | 1.9 MiB | `native/unknown` |
+| [hatch-universal.exe](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-universal.exe) | 40.4 MiB | `other` |
+| [hatch-universal.pkg](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-universal.pkg) | 3.4 MiB | `other` |
+| [hatch-x64.msi](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-x64.msi) | 1.9 MiB | `other` |
+| [hatch-x86.msi](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-x86.msi) | 1.7 MiB | `other` |
+| [hatch-x86_64-apple-darwin.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-x86_64-apple-darwin.tar.gz) | 1.7 MiB | `native/darwin/x64` |
+| [hatch-x86_64-pc-windows-msvc.zip](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-x86_64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/x64` |
+| [hatch-x86_64-unknown-linux-gnu.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-x86_64-unknown-linux-gnu.tar.gz) | 1.8 MiB | `native/linux/x64/glibc` |
+| [hatch-x86_64-unknown-linux-musl.tar.gz](https://github.com/pypa/hatch/releases/download/hatch-v1.18.2/hatch-x86_64-unknown-linux-musl.tar.gz) | 1.9 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/hatch) 上共有 **55** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**32** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/hatch) 上共有 **55** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**46** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `1.18.1` | ✅ latest |
-| Homebrew | `1.18.1` | ✅ latest |
-| Fedora rawhide | `1.18.1` | ✅ latest |
+| Arch | `1.18.1` | ⚠️ outdated |
+| Homebrew | `1.18.1` | ⚠️ outdated |
+| Fedora rawhide | `1.18.1` | ⚠️ outdated |
 | Nix unstable | `1.16.5` | ⚠️ outdated |
 | Void | `1.17.0` | ⚠️ outdated |
 | Alpine edge | `1.16.3` | ⚠️ outdated |
@@ -110,4 +110,4 @@ hatch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:35:12Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T06:13:46Z._
