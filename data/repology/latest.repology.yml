@@ -197,20 +197,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: hatch
-  binnames:
-    - hatch
-  visiblename: hatch
-  version: 1.15.1
-  origversion: 1.15.1-1.fc43
-  status: outdated
-  summary: A modern project, package, and virtual env manager
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: hatch
   binnames:
@@ -219,6 +205,20 @@
   version: 1.14.2
   origversion: 1.14.2-2.fc43
   status: legacy
+  summary: A modern project, package, and virtual env manager
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: hatch
+  binnames:
+    - hatch
+  visiblename: hatch
+  version: 1.15.1
+  origversion: 1.15.1-1.fc43
+  status: outdated
   summary: A modern project, package, and virtual env manager
   licenses:
     - MIT
@@ -296,9 +296,9 @@
   srcname: python/py-hatch
   binname: py-hatch
   visiblename: py-hatch
-  version: 1.18.1
+  version: 1.18.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Hatch is a modern, extensible Python project manager.
   maintainers:
     - mps@macports
@@ -311,9 +311,9 @@
   srcname: python/py-hatch
   binname: py310-hatch
   visiblename: py310-hatch
-  version: 1.18.1
+  version: 1.18.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Hatch is a modern, extensible Python project manager.
   maintainers:
     - mps@macports
@@ -326,9 +326,9 @@
   srcname: python/py-hatch
   binname: py311-hatch
   visiblename: py311-hatch
-  version: 1.18.1
+  version: 1.18.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Hatch is a modern, extensible Python project manager.
   maintainers:
     - mps@macports
@@ -341,9 +341,9 @@
   srcname: python/py-hatch
   binname: py312-hatch
   visiblename: py312-hatch
-  version: 1.18.1
+  version: 1.18.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Hatch is a modern, extensible Python project manager.
   maintainers:
     - mps@macports
@@ -356,9 +356,9 @@
   srcname: python/py-hatch
   binname: py313-hatch
   visiblename: py313-hatch
-  version: 1.18.1
+  version: 1.18.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Hatch is a modern, extensible Python project manager.
   maintainers:
     - mps@macports
@@ -371,9 +371,9 @@
   srcname: python/py-hatch
   binname: py314-hatch
   visiblename: py314-hatch
-  version: 1.18.1
+  version: 1.18.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Hatch is a modern, extensible Python project manager.
   maintainers:
     - mps@macports
@@ -497,30 +497,6 @@
   categories:
     - python314Packages
 - repo: nix_unstable
-  srcname: python314Packages.hatch
-  visiblename: hatch
-  version: 1.16.5
-  origversion: null
-  status: outdated
-  summary: Modern, extensible Python project manager
-  maintainers:
-    - onny@project-insanity.org
-  licenses:
-    - MIT
-  categories:
-    - python314Packages
-- repo: nix_unstable
-  srcname: hatch
-  visiblename: hatch
-  version: 1.16.5
-  origversion: null
-  status: outdated
-  summary: Modern, extensible Python project manager
-  maintainers:
-    - onny@project-insanity.org
-  licenses:
-    - MIT
-- repo: nix_unstable
   srcname: python313Packages.hatch
   visiblename: hatch
   version: 1.16.5
@@ -533,6 +509,30 @@
     - MIT
   categories:
     - python313Packages
+- repo: nix_unstable
+  srcname: hatch
+  visiblename: hatch
+  version: 1.16.5
+  origversion: null
+  status: outdated
+  summary: Modern, extensible Python project manager
+  maintainers:
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: python314Packages.hatch
+  visiblename: hatch
+  version: 1.16.5
+  origversion: null
+  status: outdated
+  summary: Modern, extensible Python project manager
+  maintainers:
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+  categories:
+    - python314Packages
 - repo: openeuler_24_03_lts
   srcname: python-hatch
   binnames:
