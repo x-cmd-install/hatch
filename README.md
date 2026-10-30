@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,246 · **Forks**: 485 · **Open issues**: 1,089 · **Contributors**: 183
+- **Stars**: 7,247 · **Forks**: 485 · **Open issues**: 1,090 · **Contributors**: 183
 
 ## Totals (cumulative)
 
-- **Releases**: 155 · **Merged PRs**: 800 · **Open PRs**: 106 · **Closed issues**: 749 · **Open issues**: 340 · **Commits**: 1134
+- **Releases**: 155 · **Merged PRs**: 800 · **Open PRs**: 106 · **Closed issues**: 749 · **Open issues**: 341 · **Commits**: 1134
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 7 | 14 | 1 | 3 | 9 |
-| last60d | 2026-08-30 | 5 | 19 | 25 | 9 | 6 | 24 |
-| 90d | 2026-07-31 | 7 | 31 | 41 | 15 | 9 | 38 |
-| last180d | 2026-05-02 | 11 | 67 | 60 | 30 | 14 | 76 |
-| 360d | 2025-11-03 | 19 | 117 | 75 | 79 | 38 | 129 |
-| last720d | 2024-11-08 | 29 | 150 | 89 | 151 | 161 | 166 |
+| 30d | 2026-09-30 | 2 | 7 | 14 | 0 | 4 | 9 |
+| last60d | 2026-08-31 | 5 | 19 | 25 | 9 | 7 | 24 |
+| 90d | 2026-08-01 | 7 | 31 | 41 | 15 | 10 | 38 |
+| last180d | 2026-05-03 | 11 | 67 | 60 | 30 | 15 | 76 |
+| 360d | 2025-11-04 | 19 | 117 | 75 | 79 | 39 | 129 |
+| last720d | 2024-11-09 | 29 | 147 | 89 | 151 | 161 | 166 |
 
 ## Release assets
 
@@ -89,13 +89,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **55** distros on [repology.org](https://repology.org/project/hatch). **8** are ✅ on the latest upstream release, **40** are ⚠️ on an older version.
+Reported by **55** distros on [repology.org](https://repology.org/project/hatch). **10** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.18.1` | ⚠️ outdated |
-| Homebrew | `1.18.1` | ⚠️ outdated |
-| Fedora rawhide | `1.18.1` | ⚠️ outdated |
+| Homebrew | `1.18.2` | ✅ latest |
+| Fedora rawhide | `1.18.2` | ✅ latest |
 | Nix unstable | `1.16.5` | ⚠️ outdated |
 | Void | `1.17.0` | ⚠️ outdated |
 | Alpine edge | `1.16.3` | ⚠️ outdated |
@@ -110,4 +110,4 @@ Install metadata for hatch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:19:14Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:14:24Z._
