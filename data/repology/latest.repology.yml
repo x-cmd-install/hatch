@@ -113,20 +113,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: release
-  srcname: hatch
-  binnames:
-    - hatch
-  visiblename: hatch
-  version: 1.9.4
-  origversion: 1.9.4-1.fc40
-  status: legacy
-  summary: A modern project, package, and virtual env manager
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: updates
   srcname: hatch
   binnames:
@@ -135,6 +121,20 @@
   version: 1.9.7
   origversion: 1.9.7-1.fc40
   status: outdated
+  summary: A modern project, package, and virtual env manager
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: release
+  srcname: hatch
+  binnames:
+    - hatch
+  visiblename: hatch
+  version: 1.9.4
+  origversion: 1.9.4-1.fc40
+  status: legacy
   summary: A modern project, package, and virtual env manager
   licenses:
     - MIT
@@ -197,20 +197,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: release
-  srcname: hatch
-  binnames:
-    - hatch
-  visiblename: hatch
-  version: 1.14.2
-  origversion: 1.14.2-2.fc43
-  status: legacy
-  summary: A modern project, package, and virtual env manager
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: updates
   srcname: hatch
   binnames:
@@ -224,15 +210,15 @@
     - MIT
   categories:
     - Unspecified
-- repo: fedora_44
-  subrepo: updates
+- repo: fedora_43
+  subrepo: release
   srcname: hatch
   binnames:
     - hatch
   visiblename: hatch
-  version: 1.18.2
-  origversion: 1.18.2-1.fc44
-  status: newest
+  version: 1.14.2
+  origversion: 1.14.2-2.fc43
+  status: legacy
   summary: A modern project, package, and virtual env manager
   licenses:
     - MIT
@@ -247,6 +233,20 @@
   version: 1.16.4
   origversion: 1.16.4-1.fc44
   status: legacy
+  summary: A modern project, package, and virtual env manager
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: hatch
+  binnames:
+    - hatch
+  visiblename: hatch
+  version: 1.18.2
+  origversion: 1.18.2-1.fc44
+  status: newest
   summary: A modern project, package, and virtual env manager
   licenses:
     - MIT
@@ -270,9 +270,9 @@
   srcname: devel/py-hatch
   binname: py312-hatch
   visiblename: devel/py-hatch
-  version: 1.18.1
+  version: 1.18.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Modern project, package, and virtual env manager
   maintainers:
     - sunpoet@freebsd.org
@@ -474,30 +474,6 @@
   licenses:
     - MIT
 - repo: nix_stable_26_05
-  srcname: python313Packages.hatch
-  visiblename: hatch
-  version: 1.16.5
-  origversion: null
-  status: outdated
-  summary: Modern, extensible Python project manager
-  maintainers:
-    - onny@project-insanity.org
-  licenses:
-    - MIT
-  categories:
-    - python313Packages
-- repo: nix_stable_26_05
-  srcname: hatch
-  visiblename: hatch
-  version: 1.16.5
-  origversion: null
-  status: outdated
-  summary: Modern, extensible Python project manager
-  maintainers:
-    - onny@project-insanity.org
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
   srcname: python314Packages.hatch
   visiblename: hatch
   version: 1.16.5
@@ -510,7 +486,18 @@
     - MIT
   categories:
     - python314Packages
-- repo: nix_unstable
+- repo: nix_stable_26_05
+  srcname: hatch
+  visiblename: hatch
+  version: 1.16.5
+  origversion: null
+  status: outdated
+  summary: Modern, extensible Python project manager
+  maintainers:
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
   srcname: python313Packages.hatch
   visiblename: hatch
   version: 1.16.5
@@ -547,6 +534,19 @@
     - MIT
   categories:
     - python314Packages
+- repo: nix_unstable
+  srcname: python313Packages.hatch
+  visiblename: hatch
+  version: 1.16.5
+  origversion: null
+  status: outdated
+  summary: Modern, extensible Python project manager
+  maintainers:
+    - onny@project-insanity.org
+  licenses:
+    - MIT
+  categories:
+    - python313Packages
 - repo: openeuler_24_03_lts
   srcname: python-hatch
   binnames:
