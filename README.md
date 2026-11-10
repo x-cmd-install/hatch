@@ -30,7 +30,7 @@ Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 10/30 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 11/30 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,246 · **Forks**: 487 · **Open issues**: 1,091 · **Contributors**: 183
+- **Stars**: 7,246 · **Forks**: 490 · **Open issues**: 1,092 · **Contributors**: 183
 
 ## Totals (cumulative)
 
-- **Releases**: 155 · **Merged PRs**: 801 · **Open PRs**: 107 · **Closed issues**: 749 · **Open issues**: 342 · **Commits**: 1135
+- **Releases**: 155 · **Merged PRs**: 801 · **Open PRs**: 110 · **Closed issues**: 749 · **Open issues**: 343 · **Commits**: 1135
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 2 | 7 | 9 | 0 | 4 | 9 |
-| last60d | 2026-09-10 | 5 | 19 | 22 | 8 | 8 | 20 |
-| 90d | 2026-08-11 | 7 | 25 | 37 | 14 | 9 | 26 |
-| last180d | 2026-05-13 | 11 | 66 | 61 | 29 | 16 | 71 |
-| 360d | 2025-11-14 | 19 | 114 | 77 | 78 | 38 | 123 |
-| last720d | 2024-11-19 | 25 | 143 | 90 | 142 | 154 | 148 |
+| 30d | 2026-10-11 | 2 | 7 | 12 | 0 | 5 | 9 |
+| last60d | 2026-09-11 | 5 | 19 | 25 | 7 | 9 | 20 |
+| 90d | 2026-08-12 | 5 | 24 | 38 | 13 | 10 | 26 |
+| last180d | 2026-05-14 | 11 | 66 | 64 | 29 | 17 | 71 |
+| 360d | 2025-11-15 | 19 | 114 | 80 | 78 | 39 | 123 |
+| last720d | 2024-11-20 | 25 | 143 | 93 | 141 | 155 | 148 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **56** distros on [repology.org](https://repology.org/project/hatch). **11** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
+Reported by **56** distros on [repology.org](https://repology.org/project/hatch). **12** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -110,4 +110,4 @@ Install metadata for hatch lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:01:19Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:48:10Z._
